@@ -15,11 +15,7 @@ activate:
 
 Install requirements:
 
-> pip install flask
-
-> pip instal flask-login
-
-> pip install flask-sqlalchemy
+> pip install -r requirements.txt
 
 Run:
 
